@@ -1,0 +1,51 @@
+.card-title {
+    background-image: url("src/assets/logo-instagram.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60px;
+    width: 100%;
+}
+
+.form-control {
+    margin-top: 20px;
+}
+
+.btn {
+    width: 262px;
+    margin-top: 20px;
+}
+
+.primeiro-card {
+    height: 480px;
+    margin-left: 40px;
+   
+}
+
+.container {
+    margin-top: 150px;
+}
+
+.segundo-card{
+    height: 200px;
+    margin-top: 30px;
+   
+    position: relative;
+    right: 13px;
+}
+
+.link a{
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.frase{
+    font-size: 13px;
+}
+
+h5{
+    font-size: 14px;
+}
+
+.termos{
+    text-align: center;
+}
